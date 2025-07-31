@@ -1,6 +1,7 @@
 # 💫 About Me:
 💻 Computer Science Student<br>Currently in my 7th semester of B.Tech in Computer Science, I’m passionate about building real-world, scalable solutions.<br>I love translating complex problems into clean, maintainable code. I’m a fast learner, team collaborator, and always excited to explore new technologies.<br>Trying to learn about different technology and aiming in contributing for the positive development in environment by using and sharing mine thought on technology.<br>Actively seeking opportunities to contribute as a Software Engineer Intern and grow alongside a collaborative development team.<br><br>Let connect!!..<br>to share and contribute..
 
+[![HitCount](https://hits.dwyl.com/prabhat2027/prabhat2027.svg?style=flat&show=unique)](http://hits.dwyl.com/prabhat2027/prabhat2027)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gRwfxyc5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabhat_2027) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat2027) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@119Vlogs26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.prabhat2700@gmail.com) 
